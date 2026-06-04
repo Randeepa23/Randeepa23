@@ -95,7 +95,7 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Randeepa23&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Randeepa23&theme=tokyonight&no-frame=true" />
 </p>
 
 ---
@@ -111,7 +111,7 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
 
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+  <a href="https://www.linkedin.com/in/randeepa-ariyawansa-a589a6265/">
     <img src="https://www.linkedin.com/in/randeepa-ariyawansa-a589a6265/" />
   </a>
 </p>
