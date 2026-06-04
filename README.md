@@ -109,13 +109,11 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
 
   <a href="https://github.com/Randeepa23">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
+  </a> 
 
   <a href="https://www.linkedin.com/in/randeepa-ariyawansa-a589a6265/">
-    <img src="https://www.linkedin.com/in/randeepa-ariyawansa-a589a6265/" />
-  </a>
-</p>
-
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+</a>
 ---
 
 ## 👀 Profile Views
