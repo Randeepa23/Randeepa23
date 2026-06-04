@@ -92,10 +92,10 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Randeepa23&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Randeepa23&theme=tokyonight&no-frame=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Randeepa23&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
