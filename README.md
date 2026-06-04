@@ -6,7 +6,7 @@ Software Engineering Undergraduate | AI/ML Enthusiast | Full-Stack Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Software+Engineering+Undergraduate;AI%2FML+Enthusiast;Full-Stack+Developer;Rasa+Chatbot+Developer;Image+Processing+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Engineering+Undergraduate;AI%2FML+Enthusiast;Full-Stack+Developer;Rasa+Chatbot+Developer;Image+Processing+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
 ---
