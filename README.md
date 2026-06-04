@@ -9,7 +9,7 @@ Software Engineering Undergraduate | AI/ML Enthusiast | Full-Stack Developer
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Engineering+Undergraduate;AI%2FML+Enthusiast;Full-Stack+Developer;Rasa+Chatbot+Developer;Image+Processing+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
 </p>
 
----
+
 
 ## 👨‍💻 About Me
 
@@ -20,7 +20,7 @@ Software Engineering Undergraduate | AI/ML Enthusiast | Full-Stack Developer
 - 🎯 My goal is to build practical software solutions that solve real-world problems
 - 📫 Reach me at **avithariyawansa207@gmail.com**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -54,7 +54,7 @@ Software Engineering Undergraduate | AI/ML Enthusiast | Full-Stack Developer
   <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,linux" />
 </p>
 
----
+
 
 ## 🚀 Featured Projects
 
@@ -74,7 +74,7 @@ It focuses on detecting and recognizing faces to automate the attendance marking
 Responsive and modern websites developed using **HTML, CSS, JavaScript, React, and UI/UX principles**.  
 These projects focus on clean interfaces, mobile responsiveness, and professional design.
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -98,7 +98,7 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Randeepa23&theme=tokyo-night&hide_border=true" />
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -114,7 +114,7 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
   <a href="https://www.linkedin.com/in/randeepa-ariyawansa-a589a6265/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
 </a>
----
+
 
 ## 👀 Profile Views
 
@@ -122,7 +122,7 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
   <img src="https://komarev.com/ghpvc/?username=Randeepa23&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
 </p>
 
----
+
 
 <p align="center">
   <i>"The best way to predict the future is to create it."</i>
@@ -131,4 +131,4 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-```
+
