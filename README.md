@@ -1,134 +1,79 @@
+# Hi there, I'm Randeepa Ariyawansa 👋
 
-<h1 align="center">Hi 👋, I'm Randeepa Ariyawansa</h1>
+**Software Engineering Undergraduate | AI/ML Enthusiast | Full-Stack Developer**
 
-<h3 align="center">
-Software Engineering Undergraduate | AI/ML Enthusiast | Full-Stack Developer
-</h3>
+---
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Computer+Engineering+Undergraduate;AI%2FML+Enthusiast;Full-Stack+Developer;Rasa+Chatbot+Developer;Image+Processing+Developer;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
+## 🧑‍💻 About Me
 
-
-
-## 👨‍💻 About Me
-
-- 🎓 I’m a **Software Engineering undergraduate** at **General Sir John Kotelawala Defence University**
-- 🤖 Interested in **AI/ML, full-stack development, chatbot systems, and image processing**
-- 🌱 Currently improving my skills in **React, MongoDB, Python, Flask, Rasa, and AI/ML**
-- 💻 I also work on **freelance web development projects**
-- 🎯 My goal is to build practical software solutions that solve real-world problems
+- 🎓 Software Engineering undergraduate at **General Sir John Kotelawala Defence University**
+- 🤖 Deeply interested in **AI/ML, full-stack development, chatbot systems, and image processing**
+- 🌱 Currently sharpening my skills in **React, MongoDB, Python, Flask, Rasa, and Deep Learning**
+- 💼 Actively taking on **freelance web development projects**
+- 🎯 Focused on building practical software that solves real-world problems
 - 📫 Reach me at **avithariyawansa207@gmail.com**
 
+---
 
+## 🔭 Quick Facts
+
+| | |
+|---|---|
+| 🔭 Currently working on | AI-powered chatbot systems |
+| 🌱 Currently learning | Deep Learning & Computer Vision |
+| 💬 Ask me about | React, Flask, Rasa, OpenCV |
+| 📫 Reach me at | avithariyawansa207@gmail.com |
+
+---
 
 ## 🛠️ Tech Stack
 
-### Programming Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,js,html,css" />
-</p>
+**Languages:** Python, Java, C++, C, JavaScript, HTML, CSS
 
-### Frontend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=react,html,css,js,tailwind,bootstrap" />
-</p>
+**Frontend:** React, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript
 
-### Backend Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-</p>
+**Backend:** Flask, Node.js, Express
 
-### AI / ML / Computer Vision
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,python" />
-</p>
+**AI / ML / Computer Vision:** TensorFlow, OpenCV, Python
 
-### Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-</p>
+**Databases:** MongoDB, MySQL
 
-### Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,pycharm,figma,postman,linux" />
-</p>
+**Tools & Platforms:** Git, GitHub, VS Code, PyCharm, Figma, Postman, Linux
 
-
+---
 
 ## 🚀 Featured Projects
 
 ### 🧠 AI Image Denoising System
-A deep CNN autoencoder-based image noise removal system developed using **Python, TensorFlow, Flask, and image processing techniques**.  
-The system allows users to upload noisy images and receive cleaned/enhanced outputs through a simple web interface.
+A deep CNN autoencoder-based image noise removal system. Upload a noisy image and get a cleaned, enhanced output through a simple web interface.
+**Tech:** Python, TensorFlow, Flask, OpenCV
+**Repo:** [https://github.com/Randeepa23/IPCV-Project.git]
 
 ### 🤖 Rasa Hotel Chatbot System
-A full-stack chatbot system developed using **Rasa, Python, React, and MongoDB**.  
-It includes booking handling, feedback management, notification checking, login functionality, and chat history storage.
+A full-stack hotel chatbot handling bookings, feedback, notifications, login, and chat history.
+**Tech:** Rasa, Python, React, MongoDB
+**Repo:** [https://github.com/Randeepa23/ChatBotAI.git]
 
 ### 👤 Face Recognition Attendance System
-An AI-based attendance system developed using **Python, OpenCV, and face recognition techniques**.  
-It focuses on detecting and recognizing faces to automate the attendance marking process.
+An AI-based system that detects and recognizes faces to automate attendance marking.
+**Tech:** Python, OpenCV, Face Recognition
+**Repo:** [https://github.com/Randeepa23/face-py-repo.git]
 
-### 🌐 Freelance Web Development Projects
-Responsive and modern websites developed using **HTML, CSS, JavaScript, React, and UI/UX principles**.  
-These projects focus on clean interfaces, mobile responsiveness, and professional design.
+### 🌐 Freelance Web Projects
+Responsive, modern websites focused on clean UI, mobile responsiveness, and professional design.
+**Tech:** HTML, CSS, JavaScript, React
+**Portfolio/Repo:** [https://github.com/Randeepa23/SHG-Hela-Osu.git]
 
-
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Randeepa23&theme=tokyonight" alt="GitHub Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Randeepa23&theme=tokyonight" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Randeepa23&theme=tokyonight" alt="Most Commit Language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Randeepa23&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Randeepa23&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</p>
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Randeepa23&theme=tokyo-night&hide_border=true" />
-</p>
-
-
+---
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="mailto:avithariyawansa207@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+- 📧 Email: [avithariyawansa207@gmail.com](mailto:avithariyawansa207@gmail.com)
+- 💼 LinkedIn: [randeepa-ariyawansa](https://www.linkedin.com/in/randeepa-ariyawansa-a589a6265/)
+- 🐙 GitHub: [Randeepa23](https://github.com/Randeepa23)
 
-  <a href="https://github.com/Randeepa23">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a> 
+---
 
-  <a href="https://www.linkedin.com/in/randeepa-ariyawansa-a589a6265/">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-</a>
+*"The best way to predict the future is to create it."*
 
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Randeepa23&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
-
-
-
-<p align="center">
-  <i>"The best way to predict the future is to create it."</i>
-</p>
-
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
-
+⭐ Thanks for stopping by — feel free to explore my repos and connect!
