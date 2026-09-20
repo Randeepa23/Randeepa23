@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Randeepa Ariyawansa</h1>
 
 <h3 align="center">
@@ -92,10 +91,10 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Randeepa23&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
 </p>
 
-## 📈 Contribution Graph
+## 📈 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Randeepa23&theme=tokyo-night&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Randeepa23&theme=tokyo-night&hide_border=true" alt="GitHub Streak Stats" />
 </p>
 
 
@@ -131,4 +130,3 @@ These projects focus on clean interfaces, mobile responsiveness, and professiona
 <p align="center">
   ⭐ Thanks for visiting my profile!
 </p>
-
