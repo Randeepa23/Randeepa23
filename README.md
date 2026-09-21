@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Randeepa%20Ariyawansa&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Computer%20Engineering%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Randeepa%20Ariyawansa&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20%7C%20Full-Stack%20%7C%20AI%2FML&descAlignY=55&descSize=18" width="100%"/>
 </p>
 
 <h3 align="center">
@@ -81,52 +81,40 @@ Computer Engineering Undergraduate | Software Engineering Intern | Full-Stack De
 
 ## 🚀 Featured Projects
 
-<!-- TODO: replace the '#' links below with your real repo/live-demo URLs,
-     and replace assets/*.gif with a short screen recording of each project.
-     Tools like ScreenToGif (Windows), Kap (Mac), or Peek (Linux) work well for this. -->
-
 <table>
   <tr>
-    <td width="35%"><b>🧠 AI Image Denoising System</b></td>
-    <td width="30%"><img src="assets/denoising-demo.gif" width="100%" alt="AI Image Denoising demo"/></td>
-    <td width="35%">
+    <td width="30%" valign="top"><b>🧠 AI Image Denoising System</b></td>
+    <td width="70%">
       A deep CNN autoencoder-based image noise removal system. Upload a noisy image, get a cleaned/enhanced output through a simple web interface.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/><br/>
-      <a href="#">🔗 Live Demo</a> • <a href="#">📂 Code</a>
+      <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>🤖 Rasa Hotel Chatbot System</b></td>
-    <td><img src="assets/chatbot-demo.gif" width="100%" alt="Rasa Hotel Chatbot demo"/></td>
+    <td valign="top"><b>🤖 Rasa Hotel Chatbot System</b></td>
     <td>
       A full-stack chatbot handling booking, feedback, notifications, login, and chat history.<br/><br/>
       <img src="https://img.shields.io/badge/Rasa-5A17EE?style=flat&logo=rasa&logoColor=white"/>
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/><br/>
-      <a href="#">🔗 Live Demo</a> • <a href="#">📂 Code</a>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>👤 Face Recognition Attendance System</b></td>
-    <td><img src="assets/attendance-demo.gif" width="100%" alt="Face Recognition Attendance demo"/></td>
+    <td valign="top"><b>👤 Face Recognition Attendance System</b></td>
     <td>
       Detects and recognizes faces to automate attendance marking.<br/><br/>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/><br/>
-      <a href="#">🔗 Live Demo</a> • <a href="#">📂 Code</a>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white"/>
     </td>
   </tr>
   <tr>
-    <td><b>🌐 Freelance Web Development</b></td>
-    <td><img src="assets/freelance-demo.gif" width="100%" alt="Freelance work demo"/></td>
+    <td valign="top"><b>🌐 Freelance Web Development</b></td>
     <td>
       Responsive, modern websites with clean UI/UX and mobile-first design.<br/><br/>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/><br/>
-      <a href="#">🔗 Portfolio</a>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
     </td>
   </tr>
 </table>
@@ -183,15 +171,6 @@ Weekly coding activity will appear here once WakaTime is connected — see SETUP
 <!--START_SECTION:activity-->
 - Your latest commits, PRs, and issues will appear here automatically once the Action runs.
 <!--END_SECTION:activity-->
-
-## 🎵 What I'm Listening To
-
-<!-- OPTIONAL — requires your own Spotify integration deployment, see SETUP.md -->
-<p align="center">
-  <img src="https://novatorem-randeepa23.vercel.app/api/spotify" alt="Spotify Now Playing" />
-</p>
-
-
 
 ## 🌐 Connect With Me
 
