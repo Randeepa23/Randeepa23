@@ -156,12 +156,6 @@ Computer Engineering Undergraduate | Software Engineering Intern | Full-Stack De
   <img src="https://leetcard.jacoblin.cool/t6HVsN9lVu?theme=dark&font=Fira%20Code" alt="LeetCode Stats" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Randeepa23&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</p>
-
 ## 🎯 What I'm Focused On
 
 - 🔭 Deepening my AI/ML skills — currently exploring LLM-powered applications and agentic workflows
