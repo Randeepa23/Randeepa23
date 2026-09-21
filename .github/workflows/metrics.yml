@@ -1,23 +1,70 @@
-name: Metrics Dashboard
+name: GitHub Metrics
 
 on:
-  workflow_dispatch:
+  # Run automatically every day
   schedule:
-    - cron: "0 0 * * *"   # once a day
+    - cron: "0 0 * * *"
+
+  # Allow manual execution from GitHub Actions
+  workflow_dispatch:
+
+  # Run when this workflow is changed
+  push:
+    branches:
+      - main
 
 jobs:
-  metrics:
+  github-metrics:
     runs-on: ubuntu-latest
+
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - name: Generate GitHub Metrics
+        uses: lowlighter/metrics@latest
         with:
-          filename: metrics.svg
+          # GitHub authentication
           token: ${{ secrets.METRICS_TOKEN }}
-          user: Randeepa23
-          template: classic
-          base: header, activity, repositories
-          plugin_languages: yes
-          plugin_languages_analysis_timeout: 15
-          plugin_isocalendar: yes
+
+          # Output file
+          filename: metrics.svg
+
+          # Main metrics sections
+          base: header, activity, repositories, metadata
+
+          # --------------------------------------------------
+          # PROFESSIONAL TYPOGRAPHY
+          # --------------------------------------------------
+          extras_css: |
+            text,
+            tspan,
+            foreignObject,
+            div,
+            span,
+            p,
+            h1,
+            h2,
+            h3 {
+              font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+            }
+
+            .field,
+            .field-value,
+            .field-label,
+            .title,
+            .label,
+            .value,
+            .text {
+              font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif !important;
+            }
+
+          # --------------------------------------------------
+          # GENERAL CONFIGURATION
+          # --------------------------------------------------
+          config_timezone: Asia/Colombo
+          config_display: large
+          config_output: svg
+
+          # Keep the SVG optimized
+          optimize: css, xml
